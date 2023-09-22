@@ -1,0 +1,249 @@
+/* Media para celulares */
+@media screen and (max-width: 550px) {
+    main {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column-reverse;
+    }
+    .box {
+        width: 100%;
+    }
+
+    .box-left {
+        color: white;
+    }
+
+    .box-left span {
+        font-size: 20px;
+    }
+
+    .test2 p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .test {
+        margin-top: 1px;
+        text-align: center;
+        padding: 20px;
+        font-size: 12px;
+    }
+
+    .box-right {
+        padding: 20px;
+        margin: 11px 0px;
+    }
+
+    .box-right img:first-of-type {
+        margin-bottom: 0px;
+        width: 300px;
+    }
+
+    .box-right img:last-of-type {
+        margin-bottom: 0px;
+        width: 350px;
+    }
+
+    #introducao h1 {
+        margin-top: 50px;
+    }
+
+    .box-content {
+        width: 100%;
+    }
+
+    .box-content p {
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    .box-content img {
+        display: none;
+    }
+
+    #how-it-work h1 {
+        margin: 100px 0;
+    }
+
+    #devs {
+        width: 100%;
+    }
+
+    .box-devs {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .persona {
+        width: 100%;
+    }
+
+    .persona p {
+        font-size: 12px;
+    }
+
+    .box-about-dev p {
+        font-size: 15px;
+    }
+
+    .box-devs:nth-child(3) {
+        flex-direction: column-reverse;
+    }
+
+    .box-devs:nth-child(5) {
+        flex-direction: column-reverse;
+    }
+
+    .text-intro {
+    width: 80%;
+    font-size: 12px;
+    padding: 20px;
+    margin: 40px 0;
+}
+
+.container-box-app {
+    display: flex;
+    width: 80%;
+    height: 80%;
+    margin-bottom: 60px;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid white;
+}
+#bitcoinPrice {
+    font-size: 12px;
+}
+.preco-bitcoin p {
+    font-size: 12px;
+}
+.container-preco-bitcoin {
+    text-align: center;
+}
+
+
+.container-produto {
+    font-size: 12px;
+}
+
+}
+/* Media Para tablets */
+@media screen and (min-width: 551px) and (max-width: 1024px) {
+    
+    .box {
+        width: 100%;
+    }
+
+    .box-left {
+        color: white;
+    }
+
+    .box-left span {
+        font-size: 18px;
+    }
+
+    .test2 p {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .test {
+        margin-top: 1px;
+        text-align: center;
+        padding: 20px;
+        font-size: 12px;
+    }
+
+    .box-right {
+        padding: 0px;
+        margin: 10px;
+    }
+
+    .box-right img:first-of-type {
+        margin-bottom: 0px;
+        width: 200px;
+    }
+
+    .box-right img:last-of-type {
+        margin-bottom: 100px;
+        width: 250px;
+    }
+
+    .box-content {
+        width: 100%;
+    }
+
+    .box-content p {
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    .box-content img {
+        display: none;
+    }
+
+    #how-it-work h1 {
+        margin: 100px 0;
+    }
+
+    #devs {
+        width: 100%;
+    }
+
+    .box-devs {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .persona {
+        width: 100%;
+    }
+
+    .persona p {
+        font-size: 12px;
+    }
+
+    .box-about-dev p {
+        font-size: 15px;
+    }
+
+    .box-devs:nth-child(3) {
+        flex-direction: column-reverse;
+    }
+
+    .box-devs:nth-child(5) {
+        flex-direction: column-reverse;
+    }
+
+    .text-intro {
+        width: 90%;
+        font-size: 14px;
+        padding: 13px;
+        margin: 40px 0;
+    }
+    
+    .container-box-app {
+        display: flex;
+        width: 80%;
+        height: 80%;
+        margin-bottom: 60px;
+        border-radius: 10px;
+        overflow: hidden;
+        border: 2px solid white;
+    }
+    #bitcoinPrice {
+        font-size: 15px;
+    }
+    .preco-bitcoin p {
+        font-size: 12px;
+    }
+    .container-preco-bitcoin {
+        text-align: center;
+    }
+    
+    
+    .container-produto {
+        font-size: 15px;
+    }
+  
+}
