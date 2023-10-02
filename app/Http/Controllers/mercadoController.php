@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Produto;
+use Illuminate\Support\Facades\Redis;
+use Illuminate\Support\Facades\Validator;
 
 class mercadoController extends Controller
 {
@@ -22,6 +24,8 @@ class mercadoController extends Controller
     {
         return view('aplicativo');
     }
+
+
 
     public function produtomenu(){    
         $itens = Produto::select('nomeproduto')->get();
@@ -42,5 +46,20 @@ class mercadoController extends Controller
     }
 }
 
-    
+
+
+// UPDATE
+
+public function salvarDispositivo(Request $request)
+{
+    $produto = $request->validate([
+        'nomeproduto' => 'required|string',
+        'estoque' => 'required|string',
+        'preco' => 'required|numeric',
+    ]);
+
+    Produto::create($produto);
+    return redirect()->route('view.cadastro');
+}
+
 }
