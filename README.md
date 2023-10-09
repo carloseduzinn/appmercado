@@ -5,4 +5,12 @@
 ![about-desenvolvedores-prt2](https://github.com/carloseduzinn/appmercado/assets/104845761/27b82393-4c3d-41bd-8c2c-a61aca1d4e2a)
 ![innovation](https://github.com/carloseduzinn/appmercado/assets/104845761/d4402009-b944-4acb-8600-87fb2e8488b7)
 ![conversao](https://github.com/carloseduzinn/appmercado/assets/104845761/55d51130-03bd-4ab8-9d7a-1e3fd420372e)
+![documentacao-wp](https://github.com/carloseduzinn/appmercado/assets/104845761/cc9edcd4-9144-4121-935c-dea055c1ccd0)
+![documentacao-wp4](https://github.com/carloseduzinn/appmercado/assets/104845761/846d7547-9137-4ad7-855b-8faaa10d81ad)
+![documentacao-wp3](https://github.com/carloseduzinn/appmercado/assets/104845761/eb230acf-b80f-41a8-af1e-9a90dd711a21)
+![documentacao-wp2](https://github.com/carloseduzinn/appmercado/assets/104845761/a7e5a3c9-e053-403d-85c4-91e9fe12e4be)
+![documentacao-wp8](https://github.com/carloseduzinn/appmercado/assets/104845761/64d5c4c9-625f-4a9e-be86-1fb9e44d7bc3)
+![documentacao-wp7](https://github.com/carloseduzinn/appmercado/assets/104845761/f67defd6-cabd-4c8a-b6ad-7c6ac742b4c2)
+![documentacao-wp6](https://github.com/carloseduzinn/appmercado/assets/104845761/a1cce26e-903c-4b8f-8ef9-54ae690cf92c)
+![documentacao-wp5](https://github.com/carloseduzinn/appmercado/assets/104845761/4d68851b-2a57-4346-8d47-b8f247b26644)
 
