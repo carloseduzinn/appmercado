@@ -11,7 +11,7 @@ Tela About
 Tela innovation
 [](https://github.com/carloseduzinn/appmercado/assets/104845761/17e3ad26-a8a2-43ee-8738-2dd655792831)
 Tela innovation
-![innovation](https://github.com/carloseduzinn/appmercado/assets/104845761/3ba8f732-8e56-4994-81b9-dac59b56ef2b)
+![](https://github.com/carloseduzinn/appmercado/assets/104845761/3ba8f732-8e56-4994-81b9-dac59b56ef2b)
 
 
 ![conversao](https://github.com/carloseduzinn/appmercado/assets/104845761/5888311b-342e-479d-9f24-eb1ef8eff13e)
