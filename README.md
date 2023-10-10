@@ -11,7 +11,7 @@ tela About
 tela innovation
 [](https://github.com/carloseduzinn/appmercado/assets/104845761/17e3ad26-a8a2-43ee-8738-2dd655792831)
 tela innovation
-![(https://github.com/carloseduzinn/appmercado/assets/104845761/acdec80f-db9a-4e40-9929-f1eb89e0cd18)]
+[(https://github.com/carloseduzinn/appmercado/assets/104845761/acdec80f-db9a-4e40-9929-f1eb89e0cd18)]
 
 ![conversao](https://github.com/carloseduzinn/appmercado/assets/104845761/5888311b-342e-479d-9f24-eb1ef8eff13e)
 ![documentacao-wp](https://github.com/carloseduzinn/appmercado/assets/104845761/690b5c6d-7e80-42ba-8dad-074df159a320)
