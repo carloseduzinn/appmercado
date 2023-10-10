@@ -10,7 +10,8 @@ Tela About
 ![about-desenvolvedores-prt2](https://github.com/carloseduzinn/appmercado/assets/104845761/941923b3-c719-4fb5-aad7-28f17bc59a0f)
 Tela innovation
 [](https://github.com/carloseduzinn/appmercado/assets/104845761/17e3ad26-a8a2-43ee-8738-2dd655792831)
-Tela innovation
+
 
 ![innovation](https://github.com/carloseduzinn/appmercado/assets/104845761/bb0266ff-6730-4fa5-97df-8cb125477ad8)
+
 ![conversao](https://github.com/carloseduzinn/appmercado/assets/104845761/9310ae50-d150-4123-9db3-67d9961fab03)
