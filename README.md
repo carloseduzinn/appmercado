@@ -1,4 +1,6 @@
+home
 ![tela1](https://github.com/carloseduzinn/appmercado/assets/104845761/c4369f84-c7cd-4391-8aaa-3a10e757aee3)
+
 ![about](https://github.com/carloseduzinn/appmercado/assets/104845761/7423fef0-dcd3-4dfb-b896-fcde04b8437f)
 ![about-comoFunciona](https://github.com/carloseduzinn/appmercado/assets/104845761/df21b319-150f-4466-b16a-e1a9c87fb906)
 ![about-desenvolvedores](https://github.com/carloseduzinn/appmercado/assets/104845761/fa1dff5e-685f-44f3-a936-2d73b08cfd7b)
