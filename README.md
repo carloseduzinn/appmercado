@@ -15,11 +15,4 @@ tela innovation
 
 
 ![conversao](https://github.com/carloseduzinn/appmercado/assets/104845761/5888311b-342e-479d-9f24-eb1ef8eff13e)
-![documentacao-wp](https://github.com/carloseduzinn/appmercado/assets/104845761/690b5c6d-7e80-42ba-8dad-074df159a320)
-![documentacao-wp2](https://github.com/carloseduzinn/appmercado/assets/104845761/4975db0f-4aa7-4e17-8a81-4afcb7b73243)
-![documentacao-wp3](https://github.com/carloseduzinn/appmercado/assets/104845761/a6d59028-c830-47d9-b576-3eaf9cde5634)
-![documentacao-wp8](https://github.com/carloseduzinn/appmercado/assets/104845761/f8f635c5-bc34-4a3a-85f8-2cb6731e1636)
-![documentacao-wp7](https://github.com/carloseduzinn/appmercado/assets/104845761/8e440c60-11b9-4ea4-b9ac-2495699162a4)
-![documentacao-wp6](https://github.com/carloseduzinn/appmercado/assets/104845761/abf549fd-4420-4a55-bc96-47e233040844)
-![documentacao-wp5](https://github.com/carloseduzinn/appmercado/assets/104845761/c3c8e613-cfc8-4385-afe8-f4f7c9e969a1)
-![documentacao-wp4](https://github.com/carloseduzinn/appmercado/assets/104845761/c1ef8c9c-54e9-410c-837d-fb3dda3e6041)
+
